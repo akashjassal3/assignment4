@@ -8,9 +8,12 @@ This  notebook focuses on implementing and applying the K-means clustering algor
 3. K-means on a sample dataset: Application of the implemented K-means algorithm on a sample dataset to demonstrate its clustering capabilities.
 4. Random initialization: Discussion and code for initializing the centroids randomly to avoid poor clustering results.
 5. Image compression with K-means:
-    5.1. Processing data: Preparing the image data for compression.
-    5.2. K-Means on image pixels: Applying the K-means algorithm to reduce the number of colors in an image, effectively compressing it.
-    5.3. Compress the image: Final steps to apply the compression and visualize the compressed image.
+
+   5.1. Processing data: Preparing the image data for compression.
+
+   5.2. K-Means on image pixels: Applying the K-means algorithm to reduce the number of colors in an image, effectively compressing it.
+
+   5.3. Compress the image: Final steps to apply the compression and visualize the compressed image.
 
 # Features
 1. Detailed implementation of the K-means clustering algorithm from scratch.
